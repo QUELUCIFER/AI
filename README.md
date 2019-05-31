@@ -1,3 +1,20 @@
+## 常用文档
+
+[keras-zh](https://keras.io/zh/)
+
+[pytorch](https://pytorch.apachecn.org/docs/1.0/#/)
+
+[scikit-learn](https://sklearn.apachecn.org/)
+
+[tensorflow](
+
+[动手学DL](https://zh.gluon.ai/index.html) [mxnet](http://mxnet.incubator.apache.org/)  gluon cv/nlp
+
+## 常用博客
+
+[ml-mastery](https://machinelearningmastery.com/)
+
+
 # AI
 General code for development!
 
