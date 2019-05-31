@@ -20,5 +20,35 @@
 ![pic](https://github.com/fengdu78/deeplearning_ai_books/raw/master/images/rnn_cell_backprop.png)
 
 
+### 5.word embedding
 
+#### word2vec
+![problem](https://github.com/fengdu78/deeplearning_ai_books/raw/master/images/776044225ea4a736a4f2b38ea61fae4c.png)
+这里有一些解决方案，如分级（hierarchical）的softmax分类器和负采样（Negative Sampling）。
+
+![skip-gram](https://github.com/fengdu78/deeplearning_ai_books/raw/master/images/cbow.jpg)  ![cbow](https://github.com/fengdu78/deeplearning_ai_books/raw/master/images/skipgram.jpg)
+
+#### GloVe
+![q](https://github.com/fengdu78/deeplearning_ai_books/raw/master/images/70e282d4d1abb86fd15ff7b175f4e579.png)
+![e](https://github.com/fengdu78/deeplearning_ai_books/raw/master/images/f6fc2cec52f4ecb15567511aae822914.png)
+
+###2.9 情感分类（Sentiment Classification）
+![o](https://github.com/fengdu78/deeplearning_ai_books/raw/master/images/ea844a0290e66d1c76a31e34b632dc0c.png)
+###2.10 词嵌入除偏（Debiasing Word Embeddings）
+![i](https://github.com/fengdu78/deeplearning_ai_books/raw/master/images/9b27d865dff73a2f10abbdc1c7fc966b.png)
+
+
+## 第三周 序列模型和注意力机制（Sequence models & Attention mechanism）
+
+3.3 集束搜索（Beam Search）
+
+3.4 改进集束搜索（Refinements to Beam Search）
+![u](https://github.com/fengdu78/deeplearning_ai_books/raw/master/images/725eec5b76123bf45c9495e1231b6584.png)
+3.5 集束搜索的误差分析（Error analysis in beam search）
+![e](https://github.com/fengdu78/deeplearning_ai_books/raw/master/images/1bc0b442db9d5a1aa19dfe9a477a3c3e.png)
+
+3.6 Bleu 得分（选修）
+![b](https://github.com/fengdu78/deeplearning_ai_books/raw/master/images/0f9646d825a0c254376e094b48523ed3.png)
+
+3.8注意力模型（Attention Model）,注意力模型如何让一个神经网络只注意到一部分的输入句子。当它在生成句子的时候，更像人类翻译
 
