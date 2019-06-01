@@ -6,7 +6,7 @@
 
 [scikit-learn](https://sklearn.apachecn.org/)
 
-[tensorflow](
+[tensorflow](https://tensorflow.juejin.im/get_started/)  [tf-course](https://github.com/machinelearningmindset/TensorFlow-Course) [tf-examples](https://github.com/aymericdamien/TensorFlow-Examples)
 
 [动手学DL](https://zh.gluon.ai/index.html) [mxnet](http://mxnet.incubator.apache.org/)  gluon cv/nlp
 
