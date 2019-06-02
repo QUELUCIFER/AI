@@ -1,4 +1,10 @@
 
+- [ML-resources-大全](https://github.com/allmachinelearning/MachineLearning)
+
+- [Coursera-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
+
+
+
 一种经常引用的英文定义是：A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E.
 
 ![常见算法](https://github.com/apachecn/AiLearning/raw/master/img/ml/1.MLFoundation/ml_algorithm.jpg)
