@@ -10,6 +10,10 @@
 
 [动手学DL](https://zh.gluon.ai/index.html) [mxnet](http://mxnet.incubator.apache.org/)  gluon cv/nlp
 
+[dl-midels](https://github.com/rasbt/deeplearning-models)
+
+
+
 ## 常用博客
 
 [ml-mastery](https://machinelearningmastery.com/)
