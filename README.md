@@ -12,7 +12,7 @@
 
 [dl-midels](https://github.com/rasbt/deeplearning-models)
 
-
+[deep-learning-guide](https://github.com/sannykim/deep-learning-guide)
 
 ## 常用博客
 
