@@ -14,6 +14,9 @@
 
 [deep-learning-guide](https://github.com/sannykim/deep-learning-guide)
 
+[awesome-ai](https://github.com/owainlewis/awesome-artificial-intelligence)
+
+
 ## 常用博客
 
 [ml-mastery](https://machinelearningmastery.com/)
