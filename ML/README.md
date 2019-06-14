@@ -3,7 +3,7 @@
 
 - [Coursera-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
 
-
+- [ML-examples-A collection of machine learning examples and tutorials.](https://github.com/lazyprogrammer/machine_learning_examples)
 
 一种经常引用的英文定义是：A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E.
 
