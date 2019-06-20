@@ -1,4 +1,4 @@
-[Ian-arXiv](
+[A list of papers on Generative Adversarial (Neural) Networks](https://github.com/nightrome/really-awesome-gan)
 
 [Software that can generate photos from paintings, turn horses into zebras, perform style transfer, and more.](https://github.com/junyanz/CycleGAN)
 
