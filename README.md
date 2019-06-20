@@ -16,6 +16,8 @@
 
 [awesome-ai](https://github.com/owainlewis/awesome-artificial-intelligence)
 
+## [A curated list of awesome Deep Learning tutorials, projects and communities.](https://github.com/ChristosChristofidis/awesome-deep-learning)
+
 
 ## 常用博客
 
