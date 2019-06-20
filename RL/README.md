@@ -14,7 +14,9 @@
 
 8.[Deep Learning and deep reinforcement learning research papers and some codes](https://github.com/endymecy/awesome-deeplearning-resources)
 
+9.[gym](https://github.com/openai/gym)
 
+10.[roboschool](https://github.com/openai/roboschool)   Roboschool 基于 Bullet Physics Engine（一个开源、受到广泛许可的物理库），该库已用于其他仿真软件，比如 Gazebo 和 V-REP。
 
 
 
