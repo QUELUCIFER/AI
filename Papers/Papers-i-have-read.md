@@ -1,0 +1,4 @@
+1.[MASKGAN: BETTER TEXT GENERATION VIA FILLING IN THE ____](https://arxiv.org/pdf/1801.07736.pdf)
+
+
+
