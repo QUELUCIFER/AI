@@ -4,6 +4,10 @@
 
 3.[2019年迄今最佳深度学习研究进展汇总](https://zhuanlan.zhihu.com/p/67031143)
 
+4.[放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较](https://zhuanlan.zhihu.com/p/54743941)
+
+5.[玩转Keras之Seq2Seq自动生成标题（附开源代码）](https://zhuanlan.zhihu.com/p/43707943)
+
 
 
 
