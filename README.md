@@ -1,5 +1,7 @@
 ## 常用文档
 
+[100-best-github-deep-learning](https://meta-guide.com/software-meta-guide/100-best-github-deep-learning)
+
 [keras-zh](https://keras.io/zh/)
 
 [pytorch](https://pytorch.apachecn.org/docs/1.0/#/)
@@ -18,11 +20,25 @@
 
 ## [A curated list of awesome Deep Learning tutorials, projects and communities.](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
+[awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas)
 
-## 常用博客
+## 常用学习网站
+
+[fast-ai](https://course.fast.ai/)
+
+[distill-pub](https://distill.pub/)
+
+[ai-on](https://ai-on.org/)
+
+[research](http://ruder.io/requests-for-research/)
+
+[open-ai-research](https://openai.com/blog/requests-for-research-2/)
 
 [ml-mastery](https://machinelearningmastery.com/)
 
+[2019年春季全栈深度学习训练营](https://fullstackdeeplearning.com/)
+
+[Deep_reinforcement_learning_Course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
 
 # AI
 General code for development!
