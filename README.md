@@ -12,7 +12,7 @@
 
 [动手学DL](https://zh.gluon.ai/index.html) [mxnet](http://mxnet.incubator.apache.org/)  gluon cv/nlp
 
-[dl-midels](https://github.com/rasbt/deeplearning-models)
+[dl-models](https://github.com/rasbt/deeplearning-models)
 
 [deep-learning-guide](https://github.com/sannykim/deep-learning-guide)
 
@@ -20,7 +20,10 @@
 
 ## [A curated list of awesome Deep Learning tutorials, projects and communities.](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
-[awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas)
+[awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas)   [deepindex](https://deepindex.org/)
+
+[awesome-dl-resources](https://github.com/endymecy/awesome-deeplearning-resources)
+
 
 ## 常用学习网站
 
@@ -49,7 +52,9 @@ General code for development!
 
 3.[dive-into-ml](https://github.com/hangtwenty/dive-into-machine-learning)
 
+4.[dl-goodfellow](https://github.com/exacity/deeplearningbook-chinese)
 
+5.[
 
 
 
