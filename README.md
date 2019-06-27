@@ -28,6 +28,8 @@
 
 [AI 算法工程师手册](http://www.huaxiaozhuan.com/)
 
+[《机器学习实战》python3源码](https://github.com/wzy6642/Machine-Learning-in-Action-Python3)
+
 ## 常用学习网站
 
 [CS224N-2019-NLP](https://github.com/zhanlaoban/CS224N-Stanford-Winter-2019/)
