@@ -63,7 +63,7 @@ General code for development!
 
 4.[dl-goodfellow](https://github.com/exacity/deeplearningbook-chinese)
 
-5.[
+5.[UFLDL-zh](https://github.com/ysh329/Chinese-UFLDL-Tutorial)
 
 
 
