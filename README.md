@@ -24,10 +24,13 @@
 
 [awesome-dl-resources](https://github.com/endymecy/awesome-deeplearning-resources)
 
+[AI 算法工程师手册](http://www.huaxiaozhuan.com/)
 
 ## 常用学习网站
 
 [CS224N-2019-NLP](https://github.com/zhanlaoban/CS224N-Stanford-Winter-2019/)
+
+[CS231N-2019-CV](http://cs231n.github.io/)
 
 [fast-ai](https://course.fast.ai/)
 
