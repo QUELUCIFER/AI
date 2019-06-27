@@ -1,5 +1,7 @@
 ## 常用文档
 
+[List of Data Science Cheatsheets to rule the world](https://github.com/FavioVazquez/ds-cheatsheets)
+
 [100-best-github-deep-learning](https://meta-guide.com/software-meta-guide/100-best-github-deep-learning)
 
 [keras-zh](https://keras.io/zh/)
