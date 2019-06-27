@@ -27,6 +27,8 @@
 
 ## 常用学习网站
 
+[CS224N-2019-NLP](https://github.com/zhanlaoban/CS224N-Stanford-Winter-2019/)
+
 [fast-ai](https://course.fast.ai/)
 
 [distill-pub](https://distill.pub/)
