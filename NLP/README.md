@@ -1,3 +1,19 @@
+1.[NLP-With-Python](https://github.com/susanli2016/NLP-with-Python/)
+
+2.[gensim](https://github.com/RaRe-Technologies/gensim)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### 1.为什么不用one-hot向量标准神经网络？
 ![pic](https://github.com/fengdu78/deeplearning_ai_books/blob/master/images/1653ec3b8eb718ca817d3423ae3ca643.png)
