@@ -32,6 +32,8 @@
 
 ## 常用学习网站
 
+[CS294-158 Deep Unsupervised Learning Spring 2019](https://sites.google.com/view/berkeley-cs294-158-sp19/home)  [deeprl](https://github.com/berkeleydeeprlcourse)
+
 [CS224N-2019-NLP](https://github.com/zhanlaoban/CS224N-Stanford-Winter-2019/)
 
 [CS231N-2019-CV](http://cs231n.github.io/)
