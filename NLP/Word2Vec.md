@@ -1,6 +1,6 @@
 使用方法:
 
---gensim:[gensim-data](https://github.com/RaRe-Technologies/gensim-data)
+--gensim:[gensim-data](https://github.com/RaRe-Technologies/gensim-data)   [docs](https://radimrehurek.com/gensim/models/word2vec.html)
 
 Example: load a pre-trained model (gloVe word vectors):
 
