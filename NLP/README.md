@@ -2,6 +2,9 @@
 
 2.[gensim](https://github.com/RaRe-Technologies/gensim)
 
+3.[word2vec uisng keras inside gensim](https://github.com/niitsuma/word2vec-keras-in-gensim)
+
+4.[Data repository for pretrained NLP models and NLP corpora.](https://github.com/RaRe-Technologies/gensim-data)
 
 
 
