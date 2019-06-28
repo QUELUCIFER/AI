@@ -4,6 +4,8 @@
 
 [100-best-github-deep-learning](https://meta-guide.com/software-meta-guide/100-best-github-deep-learning)
 
+[ML Resources](https://sgfin.github.io/learning-resources/)
+
 [keras-zh](https://keras.io/zh/)
 
 [pytorch](https://pytorch.apachecn.org/docs/1.0/#/)   [PyTorch Cookbook（常用代码段整理合集）](https://zhuanlan.zhihu.com/p/59205847)
