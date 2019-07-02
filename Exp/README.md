@@ -8,6 +8,6 @@
 
 5.[玩转Keras之Seq2Seq自动生成标题（附开源代码）](https://zhuanlan.zhihu.com/p/43707943)
 
-
+### [重磅 | 完备的 AI 学习路线，最详细的资源整理！](https://zhuanlan.zhihu.com/p/64052743)
 
 
