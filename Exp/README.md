@@ -10,4 +10,7 @@
 
 ### [重磅 | 完备的 AI 学习路线，最详细的资源整理！](https://zhuanlan.zhihu.com/p/64052743)
 
+### [[比赛记录-主流机器学习模型模板代码+经验分享xgb, lgb, Keras, LR](https://blog.csdn.net/leyounger/article/details/78667538)
+
+
 
