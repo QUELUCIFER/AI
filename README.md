@@ -6,6 +6,8 @@
 
 [ML Resources](https://sgfin.github.io/learning-resources/)
 
+[dl-500问](https://github.com/scutan90/DeepLearning-500-questions)
+
 [datacamp](https://www.datacamp.com/)
 
 [keras-zh](https://keras.io/zh/)
